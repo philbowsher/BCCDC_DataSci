@@ -1,5 +1,5 @@
 ---
-title: "Measles Surveillance Analysis: Hamburg, Germany"
+title: "Measles Epidemiological Analysis: Hamburg, Germany"
 author: "Surveillance Data Analysis Team"
 date: "`r Sys.Date()`"
 format:
