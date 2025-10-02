@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.1",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "reports/hamburg_measles_surveillance.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "README.md": {
+      "checksum": "a2637ec58e398a3eb13bc63ad7b6a179"
+    },
+    "reports/hamburg_measles_surveillance_files/figure-html/monthly-pattern-1.png": {
+      "checksum": "8a9eba1684993c5a5c9c2123b1ed5cd7"
+    },
+    "reports/hamburg_measles_surveillance_files/figure-html/weekly-pattern-1.png": {
+      "checksum": "85b2520df9c3e1d782f83c144201f6c6"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/bootstrap/bootstrap-32162a2fca7cb0439643f2faaab1edf3.min.css": {
+      "checksum": "32162a2fca7cb0439643f2faaab1edf3"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css": {
+      "checksum": "2f5df379a58b258e96c21c0638c20c03"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/quarto.js": {
+      "checksum": "b2cce65711e74956eb7b7aa2f4d3943f"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "reports/hamburg_measles_surveillance_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "reports/hamburg_measles_surveillance.html": {
+      "checksum": "09cc535cbb5c5cfb1228bedaee66ce07"
+    },
+    "reports/hamburg_measles_surveillance.qmd": {
+      "checksum": "3d970dacac27f9dd77b6cb8574e71c32"
+    }
+  },
+  "users": null
+}
